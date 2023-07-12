@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/maincolour"
-    tools:context=".MainActivity">
+    tools:context=".MenuPrincipal">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -47,7 +47,7 @@
             android:layout_margin="25dp"
             android:fontFamily="@font/montserrat_bold"
             android:gravity="center"
-            android:text="Tipos de Familias"
+            android:text="Diccionario  de Familias"
             android:textColor="@color/white"
             android:textSize="40sp"
             android:visibility="visible"
@@ -88,7 +88,7 @@
             android:layout_marginTop="335dp"
             android:fontFamily="@font/montserrat_bold"
             android:gravity="center"
-            android:text="Tipos de Familiares"
+            android:text="Diccionario  de Familiares"
             android:textColor="@color/white"
             android:textSize="40sp"
             android:radius="5dp"

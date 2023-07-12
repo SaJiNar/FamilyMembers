@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FamilyMembers</string>
+    <string name="MenuPrincipal">Selector de diccionario</string>
 </resources>
